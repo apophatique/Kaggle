@@ -1,8 +1,8 @@
 version: "3"
 
 volumes:
-  submission_volume:
+  - ./results:/usr/results
 
 services:
   plates_classifier:
-    build: CleanedDirtyV2
+    build: ClassifierService
