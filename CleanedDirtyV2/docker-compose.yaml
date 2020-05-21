@@ -1,0 +1,8 @@
+version: "3"
+
+volumes:
+  submission_volume:
+
+services:
+  plates_classifier:
+    build: C
