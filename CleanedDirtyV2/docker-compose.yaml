@@ -5,4 +5,4 @@ volumes:
 
 services:
   plates_classifier:
-    build: C
+    build: CleanedDirtyV2
