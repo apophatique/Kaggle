@@ -9,4 +9,4 @@ COPY . /usr/src/app/
 RUN pip install --no-cache-dir -r requirements.txt
 
 
-CMD ["runipy", "Baseline.ipynb"]
+CMD ["python", "Baseline.py"]
