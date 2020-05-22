@@ -368,6 +368,6 @@ submission_df.head(n=20)
 
 #submission_df.to_csv("/usr/results/submission.csv")
 
-torch.save(model.state_dict(), 'results/model_state_dict.pt')
-submission_df.to_csv("results/submission.csv")
+torch.save(model.state_dict(), '/usr/results/model_state_dict.pt')
+submission_df.to_csv("/usr/results/submission.csv")
 
