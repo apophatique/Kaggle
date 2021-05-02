@@ -1,1 +1,2 @@
-Выполнение задания в рамках конкурса https://www.kaggle.com/c/platesv2
+## Cleaned vs Dirty v2
+https://www.kaggle.com/c/platesv2
